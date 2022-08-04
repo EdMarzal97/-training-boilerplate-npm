@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author":"Edward Marzal",
+	"author": "Edward Marzal",
+	"description": "This project is part of the back-end certification of freecodecamp.org",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
